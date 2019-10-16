@@ -1,1 +1,10 @@
+Purple
+Orange
+Yellow
+Green
+Pink
+Red
+Blue
+
+Today is the Coding day.
 
